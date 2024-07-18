@@ -1,0 +1,32 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+dimen activity_horizontal_margin
+dimen activity_vertical_margin
+dimen appbar_padding
+dimen appbar_padding_top
+dimen fab_margin
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id constraintLayout
+id fab
+id section_label
+id tabs
+id title
+id view_pager
+layout activity_main
+layout fragment_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string tab_text_1
+string tab_text_2
+string title_activity_main
+style Base.Theme.Tabbed_activity
+style Theme.Tabbed_activity
+style Theme.Tabbed_activity.AppBarOverlay
+style Theme.Tabbed_activity.NoActionBar
+style Theme.Tabbed_activity.PopupOverlay
+xml backup_rules
+xml data_extraction_rules

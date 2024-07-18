@@ -1,0 +1,4 @@
+Para agregar un driver o conector JDBC a nuestro proyecto, deberemos descargarlo de la página oficial de nuestro gestor de bases de datos (Oracle, MySQL, etc...) y obtener el/los archivo/s .jar (librerías del conector/driver).
+Teniendo nuestro proyecto abierto en nustra IDE preferida (en este caso uso Eclipse), hacemos click derecho sobre nuestro proyecto y buscamos Build Path.
+A continuación Configure Build Path. Y en la ventana que se nos abre, sobre Classpath añadimos la librería .jar, con add external jars.
+Ya tendremos nuestro driver en nuestro proyecto y podremos acceder a nuestro gestor de base de datos.

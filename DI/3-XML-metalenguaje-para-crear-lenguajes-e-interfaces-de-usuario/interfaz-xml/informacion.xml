@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<enlaces>
+	<pagina>
+		<nombre>GitHub</nombre>
+		<descripcion>GitHub es un servidor de proyectos Git</descripcion>
+		<url>https://github.com/</url>
+	</pagina>
+	<pagina>
+		<nombre>GitLab</nombre>
+		<descripcion>Offers many useful features in your DVCS, such as an integrated project wiki and a project web page.</descripcion>
+		<url>https://about.gitlab.com/</url>
+	</pagina>
+	<pagina>
+		<nombre>SourceForge</nombre>
+		<descripcion>SourceForge is a collaboration website for software projects.</descripcion>
+		<url>https://sourceforge.net/</url>
+	</pagina>
+</enlaces>

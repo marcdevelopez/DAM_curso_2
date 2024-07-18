@@ -1,0 +1,13 @@
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping
+DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-
+3.0.dtd">
+<hibernate-mapping package="com.example.model">
+	<class name="Casa" table="CASA">
+		<id name="id" column="ID_CASA">
+			<generator class="native" />
+		</id>
+		<property name="ventana" column="VENTANA" />
+		<property name="puerta" column="PUERTA" />
+		<property name="metros" column="METROS" />
+	</class>
+</hibernate-mapping>

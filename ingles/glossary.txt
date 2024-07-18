@@ -1,0 +1,101 @@
+Web design:
+Web design is the process of planning the appearance and function of a website.
+
+Usability:
+Usability is a measure of how easily something can be used.
+
+Search engine:
+A search engine is a computer program that is used to locate information on the Internet.
+
+Visibility:
+Visibility is a measure of how quickly and easily a website can be located.
+
+Web development:
+Web development is the technical process of building a website.
+
+3D animation:
+3D animation is the process of creating moving three-dimensional images and placing them into a digital context.
+
+Sprite:
+Sprite sheet refers to an image that consists of several smaller images (sprites) and/or animations.
+Sprite is a computer graphic.
+
+Bitmap:
+Bitmap is a representation in which each bit is associated with a pixel and can store images digitally.
+
+Idle:
+Idle is the inactive state of a character or element.
+
+Markup language:
+A markup language is a system for displaying a webpage's content and formatting instructions, and is not seen in the final displayed version of the text.
+
+Hyperlink:
+A hyperlink is a link on a webpage that can be clicked to open another webpage.
+
+Website wireframe:
+A website wireframe is a framework or outline of a website's layout and navigational systems.
+
+Programming language:
+A programming language is a system of communication that tells a computer what to do, usually involving how to process or display information from a markup language.
+
+Web content management:
+A web content management system is software that allows people to create and manage webpages without extensive knowledge of programming and markup languages.
+
+Auto backup:
+Automatic backup saving system. Automatic backups are necessary in order to back up stored data.
+
+Backup:
+a copy of data made in case the original is lost or damaged.
+
+Software:
+Software: it is a set of computer programs used to operate computers and execute specific tasks.
+
+Track view:
+it is a tracking area that contains the last known locations and tracks.
+
+SketchFab:
+It is a 3D modality platform website that allows users to visualise 3D objects and online animation.
+
+Broadcast design: is the art of designing station identifiers, logos, titles, and other media for use on television.
+
+Motion design: is the discipline practiced by designers who create moving graphics either for titles or for graphic elements.
+
+An optical house: is a studio of designers who create titles and trailers.
+
+Kinetic: If an image is kinetic, it is an image that has motion.
+
+A bumper: is a short promotional sequence designed to run between two television programs.
+
+Morpher: it refers to the tool used for the conversion of one object into another. Using the Morpher tool makes it very easy to create simple animations like facial animations. The way in which the morpher tool creates these animations is that you create multiple copies of the head object and modify it to show the finished emotion you want to be animated.
+
+IK or Inverse Kinematic: is the technique to determine the movement of a chain of joints to maintain the final joint located in a specific position.
+
+FK or Forward Kinematic: is the technique used by the computer to calculate the position of the parts of a structure according to their joints.
+
+Soft Bodies: Soft bodies, normally used to define the simulation of the behaviour of soft bodies that will represent effects.
+
+Animation chart: showing a series of states displayed sequentially or in groups one after the other.
+
+Mobile gaming: is a format of video gaming which can be played on cell phones or other mobile devices.
+
+Arcade: An arcade is a business that runs a variety of coin-operated games.
+
+3D modeling: is a process which allows video game designers to represent three-dimensional objects on a screen.
+
+Polygon: A polygon is a basic shape which is used as a building element in digital video game design.
+
+Motion capture: is a technique in which actors wear special suits that capture their movements in a way that can be used to animate digital characters in video games or movies.
+
+Mask: normally defines the areas where an action will have influence. A common use of a Mask is to show a small section of a large Image, using say a Panel object as a "frame".
+
+Masking: allows you to discard some of the animation data within a clip, allowing the clip to animate only parts of the object or character rather than the entire thing.
+
+Blending: Mixing between several possible animations or poses.
+
+Blend: Transition from one animation to another animation smoothly and seamlessly, such as blending a character’s walking and running animations according to the character’s speed.
+
+Ragdoll: is a configuration of a human character to display how physics affects the state of its body. Ragdoll physics are a set of colliders, rigid bodies and joints that you can apply to a humanoid character, to simulate behaviour such as impact collisions and character death.
+
+Colliders: are simply the defined regions where gameObjects are solid to other gameObjects.
+
+

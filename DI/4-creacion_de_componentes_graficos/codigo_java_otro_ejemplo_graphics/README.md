@@ -1,0 +1,1 @@
+En este código se dibuja tres formas simples con la clase Graphics: un rectángulo, un óvalo y un polígono con forma de triángulo. Podéis modificarlo a placer, es vuestro, pero si lo rompéis lo pagáis ;P.
